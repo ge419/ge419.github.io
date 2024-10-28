@@ -672,13 +672,6 @@ footer {
     margin: 0 0 15px 0;
   }
 
-  h2 {
-    font-size: 1em;
-    font-weight: 300;
-    color: $heading;
-    margin: 0 0 5px 0;
-  }
-
   p {
     color: $text;
     margin: 0 0 15px 0;
@@ -692,6 +685,13 @@ footer {
     margin: 0;
     padding: 30px 15px;
     transform: none;
+
+    h2 {
+      font-size: 1em;
+      font-weight: 300;
+      color: $heading;
+      margin: 0 0 5px 0;
+    }
   }
 }
 
